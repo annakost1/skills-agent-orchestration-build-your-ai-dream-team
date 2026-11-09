@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "name": "Project Pulse Dashboard",
+      "owner": "Mona",
+      "status": "In Progress",
+      "recentActivity": "Initial agent team setup and planning completed",
+      "priority": "High"
+    },
+    {
+      "name": "AI Automation Pipeline",
+      "owner": "Copilot",
+      "status": "Active",
+      "recentActivity": "Configuring GitHub Actions workflows",
+      "priority": "Medium"
+    }
+  ]
+}

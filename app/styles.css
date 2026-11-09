@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f7f6;
+  margin: 0;
+  padding: 20px;
+}
+
+.dashboard {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.project-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.project-card h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.status {
+  font-weight: bold;
+  color: #2e7d32;
+}
+
+.priority {
+  color: #d32f2f;
+}
